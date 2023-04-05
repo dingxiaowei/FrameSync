@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Enemy24_ShuGuai
+  m_Controller: {fileID: 9100000, guid: 4dd296e2b4d95499bb36edec0847862c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 563756ef0897b2142b5e742c159aaf65, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d10e4fd80121034897ee8989e72ecea, type: 2}
+  - m_OriginalClip: {fileID: 7400016, guid: 7a49cd43ca4208447bdb4fa0335534a7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 71ecf8488b8920a41a26d1a0cd87538e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e57187563673e394580147ac05450ca4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2d31cbe8109bf3f4a831171e9529a343, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4969b71db11862a4b9b3c4cf69ad2300, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 674fc3b40a9344b43998a219dde00640, type: 2}
+  - m_OriginalClip: {fileID: 7400002, guid: 7a49cd43ca4208447bdb4fa0335534a7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f9392b010f8db42e2b4b9a1d7f1d7b75, type: 2}

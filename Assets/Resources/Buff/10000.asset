@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41310b27888dfa24fb178d9714506504, type: 3}
+  m_Name: 10000
+  m_EditorClassIdentifier: 
+  hideDamagePercentage: 1
+  buffIcon: {fileID: 21300000, guid: 52af0a5bea470b14b8eed9dce6212922, type: 3}
+  buffId: 10000
+  buffName: "\u51B0\u51BB"
+  maxStack: 0
+  buffDurationTimeMs: 0
+  buffDurationRound: 1
+  buffTriggerIntervalMs: 0
+  buffTriggerProbability: 30
+  buffType: 3
+  buffState: 7
+  triggerType: 0
+  damageType: 5
+  damagePercentage: 0
+  buffAudio: {fileID: 0}
+  buffEffect: BuffEffect_bingkuai
+  buffDes: 

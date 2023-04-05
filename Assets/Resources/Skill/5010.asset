@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ceef0e98bfa2e34a9de48bfb6c79f6a, type: 3}
+  m_Name: 5010
+  m_EditorClassIdentifier: 
+  hideBullet: 1
+  hideDamagePercentage: 1
+  skillIcon: {fileID: 21300000, guid: e9409147e68f55d48ad60d6a3750e473, type: 3}
+  skillId: 5010
+  skillName: "\u7329\u7329\u666E\u653B"
+  needRageValue: 0
+  skillShakeBeforeTimeMs: 800
+  skillAttackDurationMs: 500
+  skillShakeAfterTimeMs: 700
+  skillType: 0
+  targetType: 2
+  skillAttackType: 0
+  damageType: 1
+  damagePercentage: 0
+  bullet: 
+  skillAnim: Attack
+  skillAudio: {fileID: 0}
+  skillEffect: Effect_XingXing_attack
+  skillHitEffect: Effect_XingXing_mingzhong
+  addBuffs: 
+  skillDes: "\u666E\u901A\u653B\u51FB"

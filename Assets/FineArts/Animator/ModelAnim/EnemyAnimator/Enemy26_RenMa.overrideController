@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Enemy26_RenMa
+  m_Controller: {fileID: 9100000, guid: 4dd296e2b4d95499bb36edec0847862c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 563756ef0897b2142b5e742c159aaf65, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f9b7121e8f10cf74fb7196aab16e3a9d, type: 2}
+  - m_OriginalClip: {fileID: 7400016, guid: 7a49cd43ca4208447bdb4fa0335534a7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 622e10fb717380e45b1fffd9b1f87c79, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4969b71db11862a4b9b3c4cf69ad2300, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8266e8516d947c04183b28a4e77e5f61, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e57187563673e394580147ac05450ca4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ced96a145d993849afd6d4698e6a067, type: 2}
+  - m_OriginalClip: {fileID: 7400002, guid: 7a49cd43ca4208447bdb4fa0335534a7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 813295d42ef7e4d64b845ae31cdcb086, type: 2}
